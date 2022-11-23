@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    background-color: aqua;
+}
+
+h2{
+    background-color:chocolate;
+}
+
+ol{
+    background-color: khaki;
+}
+
+.pcolor1{
+    background-color: blueviolet;
+}
+
+.pcolor2{
+    background-color: darkgreen;
+}
+
+#li1{
+    color:aliceblue;
+}
+
+#li2{
+    color:rgb(76, 112, 145);
+}
+
+#li3{
+    color:rgb(131, 129, 14);
+}
+
+#li4{
+    color:rgb(141, 31, 126);
+}
+
+#li5{
+    color:rgb(10, 14, 2);
+}
